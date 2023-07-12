@@ -1,0 +1,48 @@
+<log type="Session" name="DESKTOP-VTHC0JK:AGOSTINA" at="2023-07-12 13:38:58.425"/>
+<log type="Test" name="AgosVenezia2" status="Info"  at="2023-07-12 13:39:00.585"><data type="text">Test Started: F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-07-12 13:39:00.591"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2023-07-12 13:39:00.596"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 14372" status="Info" realStatus="Pass"  at="2023-07-12 13:39:01.537"/>
+<log type="Assert" name="MY-APP.DoClick([])" status="Pass"  at="2023-07-12 13:39:10.367" comment="Returned Value: true" />
+<log type="Assert" name="Register.DoClick([])" status="Pass"  at="2023-07-12 13:39:11.896" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoClick([])" status="Pass"  at="2023-07-12 13:39:13.371" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoSetText([&quot;AgosVenezia3&quot;])" status="Pass"  at="2023-07-12 13:39:14.953" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoClick([])" status="Pass"  at="2023-07-12 13:39:16.458" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoSetText([&quot;Agos&quot;])" status="Pass"  at="2023-07-12 13:39:18.053" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoClick([])" status="Pass"  at="2023-07-12 13:39:19.538" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoSetText([&quot;Vene&quot;])" status="Pass"  at="2023-07-12 13:39:21.130" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-07-12 13:39:22.662" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;Probando3.&quot;])" status="Pass"  at="2023-07-12 13:39:24.257" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoClick([])" status="Pass"  at="2023-07-12 13:39:25.806" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoSetText([&quot;Probando3.&quot;])" status="Pass"  at="2023-07-12 13:39:27.415" comment="Returned Value: true" />
+<log type="Assert" name="Register1.DoClick([])" status="Pass"  at="2023-07-12 13:39:28.934" comment="Returned Value: true" />
+<log type="Assert" name="MY-APP.DoClick([])" status="Pass"  at="2023-07-12 13:39:32.395" comment="Returned Value: true" />
+<log type="Assert" name="Register.DoClick([])" status="Pass"  at="2023-07-12 13:39:33.853" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoClick([])" status="Pass"  at="2023-07-12 13:39:35.333" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoSetText([&quot;AgosVenezia4&quot;])" status="Pass"  at="2023-07-12 13:39:36.885" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoClick([])" status="Pass"  at="2023-07-12 13:39:38.365" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoSetText([&quot;Agostina&quot;])" status="Pass"  at="2023-07-12 13:39:39.925" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoClick([])" status="Pass"  at="2023-07-12 13:39:41.380" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoSetText([&quot;Venezia Napolillo&quot;])" status="Pass"  at="2023-07-12 13:39:43.028" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-07-12 13:39:44.498" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;Probando4.&quot;])" status="Pass"  at="2023-07-12 13:39:46.048" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoClick([])" status="Pass"  at="2023-07-12 13:39:47.477" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoSetText([&quot;Probando4.&quot;])" status="Pass"  at="2023-07-12 13:39:49.018" comment="Returned Value: true" />
+<log type="Assert" name="Register1.DoClick([])" status="Pass"  at="2023-07-12 13:39:50.464" comment="Returned Value: true" />
+<log type="Assert" name="MY-APP.DoClick([])" status="Pass"  at="2023-07-12 13:39:53.788" comment="Returned Value: true" />
+<log type="Assert" name="Register.DoClick([])" status="Pass"  at="2023-07-12 13:39:55.246" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoClick([])" status="Pass"  at="2023-07-12 13:39:56.683" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoSetText([&quot;AgosVenezia5&quot;])" status="Pass"  at="2023-07-12 13:39:58.276" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoClick([])" status="Pass"  at="2023-07-12 13:39:59.761" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoSetText([&quot;Aguito&quot;])" status="Pass"  at="2023-07-12 13:40:01.296" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoClick([])" status="Pass"  at="2023-07-12 13:40:02.781" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoSetText([&quot;Napolillo&quot;])" status="Pass"  at="2023-07-12 13:40:04.314" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-07-12 13:40:05.784" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;Probando5.&quot;])" status="Pass"  at="2023-07-12 13:40:07.340" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoClick([])" status="Pass"  at="2023-07-12 13:40:08.845" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoSetText([&quot;Probando5.&quot;])" status="Pass"  at="2023-07-12 13:40:10.377" comment="Returned Value: true" />
+<log type="Assert" name="Register1.DoClick([])" status="Pass"  at="2023-07-12 13:40:11.826" comment="Returned Value: true" />
+<log type="Test" name="AgosVenezia2" status="Pass" closed="AgosVenezia2" _guid="undefined"  at="2023-07-12 13:40:11.837" comment="Passed:40 Failed:0 Time:71.417s" />

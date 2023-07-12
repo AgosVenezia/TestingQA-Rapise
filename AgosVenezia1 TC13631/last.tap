@@ -1,0 +1,17 @@
+# AgosVenezia1 TC13631
+# Starting scenario: Test
+ok 1 - Play RVL@Main.rvl.xlsx
+ok 2 - MY-APP.DoClick([])
+ok 3 - Register.DoClick([])
+ok 4 - Login.DoClick([])
+ok 5 - Login.DoSetText(["agosvenezia1234"])
+ok 6 - First_Name.DoClick([])
+ok 7 - First_Name.DoSetText(["Agostina"])
+ok 8 - Last_Name.DoClick([])
+ok 9 - Last_Name.DoSetText(["Venezia"])
+ok 10 - Password.DoClick([])
+ok 11 - Password.DoSetText(["Probando1."])
+ok 12 - Confirm_Password.DoClick([])
+ok 13 - Confirm_Password.DoSetText(["Probando1."])
+ok 14 - Register1.DoClick([])
+ok 15 - AgosVenezia1 TC13631

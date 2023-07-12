@@ -1,0 +1,212 @@
+Microsoft (R) Windows Script Host versi¢n 5.812
+Copyright (C) Microsoft Corporation. Reservados todos los derechos.
+
+SeS Player Starting...
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###Agostina1 TC12909 (-2)
+###Starting scenario: Test (-2)
+###Play RVL@Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\Agostina1 TC12909\Main.rvl.xlsx
+SetRowIndex: 0:45
+Playing script: Script: F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\Agostina1 TC12909\Main.rvl.xlsx:RVL, 46 source rows 0 errors
+Looking for object:Navigator
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:Google_Chrome:_1_ventana_en_ejec
+Base UIA Locator used for: Google Chrome: 1 ventana en ejecuci¢n
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Google Chrome: 1 ventana en ejecuci¢n(UIAButton)[-1]
+Google_Chrome:_1_ventana_en_ejec.DoClick([])
+###Google_Chrome:_1_ventana_en_ejec.DoClick([]) (1)
+Action result:true
+Looking for object:Register
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register.DoClick([])
+###Register.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoClick([])
+###Login.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoSetText(["agostinita"])
+###Login.DoSetText(["agostinita"]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoClick([])
+###First_Name.DoClick([]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoSetText(["Agostina"])
+###First_Name.DoSetText(["Agostina"]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoClick([])
+###Last_Name.DoClick([]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoSetText(["Venezia"])
+###Last_Name.DoSetText(["Venezia"]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText(["quete001*"])
+###Password.DoSetText(["quete001*"]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoClick([])
+###Confirm_Password.DoClick([]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoSetText(["quete001*"])
+###Confirm_Password.DoSetText(["quete001*"]) (1)
+Action result:true
+Looking for object:Register1
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register1.DoClick([])
+###Register1.DoClick([]) (1)
+Action result:true
+Looking for object:Google_Chrome:_1_ventana_en_ejec1
+1 top windows matched
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Google Chrome: 1 ventana en ejecuci¢n(UIAButton)[-1]
+Google_Chrome:_1_ventana_en_ejec1.DoClick([])
+###Google_Chrome:_1_ventana_en_ejec1.DoClick([]) (1)
+Action result:true
+Looking for object:Google_Chrome:_1_ventana_en_ejec1
+1 top windows matched
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Google Chrome: 1 ventana en ejecuci¢n(UIAButton)[-1]
+Google_Chrome:_1_ventana_en_ejec1.DoClick([])
+###Google_Chrome:_1_ventana_en_ejec1.DoClick([]) (1)
+Action result:true
+Looking for object:Google_Chrome:_1_ventana_en_ejec1
+1 top windows matched
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Google Chrome: 1 ventana en ejecuci¢n(UIAButton)[-1]
+Google_Chrome:_1_ventana_en_ejec1.DoClick([])
+###Google_Chrome:_1_ventana_en_ejec1.DoClick([]) (1)
+Action result:true
+Looking for object:MY-REGISTER
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:MY-REGISTER(HTMLObject)[-1]
+MY-REGISTER.DoClick([])
+###MY-REGISTER.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText(["quete1."])
+###Password.DoSetText(["quete1."]) (1)
+Action result:true
+Looking for object:MY-REGISTER
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:MY-REGISTER(HTMLObject)[-1]
+MY-REGISTER.DoClick([])
+###MY-REGISTER.DoClick([]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoSetText(["quete1."])
+###Confirm_Password.DoSetText(["quete1."]) (1)
+Action result:true
+Looking for object:Register1
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register1.DoClick([])
+###Register1.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText(["quete1.1234"])
+###Password.DoSetText(["quete1.1234"]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoClick([])
+###Confirm_Password.DoClick([]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoSetText(["quete1.1234"])
+###Confirm_Password.DoSetText(["quete1.1234"]) (1)
+Action result:true
+Looking for object:Register1
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register1.DoClick([])
+###Register1.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+###Agostina1 TC12909 (1)
+Test execution done
+##############################################################
+Test Pass: Agostina1 TC12909,  (Passed:27 Failed:0 Time:54.316s)
+Test Session Status: Pass Time: 61.743s
+##############################################################

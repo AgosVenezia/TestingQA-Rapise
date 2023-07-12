@@ -1,0 +1,22 @@
+<log type="Session" name="DESKTOP-VTHC0JK:AGOSTINA" at="2023-07-12 13:37:09.050"/>
+<log type="Test" name="AgosVenezia2" status="Info"  at="2023-07-12 13:37:11.411"><data type="text">Test Started: F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-07-12 13:37:11.416"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2023-07-12 13:37:11.419"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 1268" status="Info" realStatus="Pass"  at="2023-07-12 13:37:12.507"/>
+<log type="Assert" name="MY-APP.DoClick([])" status="Pass"  at="2023-07-12 13:37:21.419" comment="Returned Value: true" />
+<log type="Assert" name="Register.DoClick([])" status="Pass"  at="2023-07-12 13:37:22.943" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoClick([])" status="Pass"  at="2023-07-12 13:37:24.395" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoSetText([&quot;AgosVenezia3&quot;])" status="Pass"  at="2023-07-12 13:37:25.970" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoClick([])" status="Pass"  at="2023-07-12 13:37:27.466" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoSetText([&quot;Agos&quot;])" status="Pass"  at="2023-07-12 13:37:29.134" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoClick([])" status="Pass"  at="2023-07-12 13:37:30.628" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoSetText([&quot;Vene&quot;])" status="Pass"  at="2023-07-12 13:37:32.254" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-07-12 13:37:33.813" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;Probando3.&quot;])" status="Pass"  at="2023-07-12 13:37:35.420" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoClick([])" status="Fail"  at="2023-07-12 13:37:35.611"><data type="text">Exception in Click:&apos;w&apos; es nulo o no es un objeto</data>
+<data type="link" url="F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.rvl.xlsx(RVL,24,1)" text="F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.rvl.xlsx(RVL,24,1)"/>
+</log>
+<log type="Test" name="AgosVenezia2" status="Fail" closed="AgosVenezia2" _guid="undefined"  at="2023-07-12 13:37:35.640" comment="Passed:11 Failed:1 Time:24.381s" />

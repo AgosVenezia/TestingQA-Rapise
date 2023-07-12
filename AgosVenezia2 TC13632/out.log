@@ -1,0 +1,293 @@
+Microsoft (R) Windows Script Host versi¢n 5.812
+Copyright (C) Microsoft Corporation. Reservados todos los derechos.
+
+SeS Player Starting...
+Rapise Version:7.4.27.74
+Verbose level:1
+Creating a locator:Spreadsheet
+Creating a locator:HTML
+Creating a locator:HTML FPP
+Checking global object: Generator
+Global object Generator is not defined yet
+Assembling global object: Generator
+Action found: GetNextValue
+Action found: Create
+Action found: Format
+Creating a locator:REST
+Creating a locator:SOAP
+Checking global object: Spira
+Global object Spira is not defined yet
+Assembling global object: Spira
+Action found: GetHostToken
+Action found: GetProjectId
+Action found: GetAutomationHostId
+Action found: RunTestSet
+Action found: CreateIncident
+Action found: GetTestCaseById
+Action found: UpdateTestCase
+Action found: CreateTestCase
+Action found: GetTestCaseFolders
+Action found: CreateTestCaseFolder
+Action found: GetTestCasesInFolder
+Action found: GetProjectById
+Action found: GetTestCaseTypes
+Initializing Web, g_browserLibrary=Selenium
+Creating a locator:UIAutomation
+Creating a locator:UIAutomation2
+###AgosVenezia2 (-2)
+###Starting scenario: Test (-2)
+###Play RVL@Main.rvl.xlsx (1)
+Attaching to spreadsheet : true : F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.rvl.xlsx
+SetRowIndex: 0:44
+Playing script: Script: F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.rvl.xlsx:RVL, 45 source rows 0 errors
+Looking for object:Navigator
+###Global.DoKillByPid: 14372 (-2)
+Using default WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:MY-APP
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:MY-APP(HTMLObject)[-1]
+MY-APP.DoClick([])
+###MY-APP.DoClick([]) (1)
+Action result:true
+Looking for object:Register
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register.DoClick([])
+###Register.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoClick([])
+###Login.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoSetText(["AgosVenezia3"])
+###Login.DoSetText(["AgosVenezia3"]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoClick([])
+###First_Name.DoClick([]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoSetText(["Agos"])
+###First_Name.DoSetText(["Agos"]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoClick([])
+###Last_Name.DoClick([]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoSetText(["Vene"])
+###Last_Name.DoSetText(["Vene"]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText(["Probando3."])
+###Password.DoSetText(["Probando3."]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoClick([])
+###Confirm_Password.DoClick([]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoSetText(["Probando3."])
+###Confirm_Password.DoSetText(["Probando3."]) (1)
+Action result:true
+Looking for object:Register1
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register1.DoClick([])
+###Register1.DoClick([]) (1)
+Action result:true
+Looking for object:Navigator
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:MY-APP
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:MY-APP(HTMLObject)[-1]
+MY-APP.DoClick([])
+###MY-APP.DoClick([]) (1)
+Action result:true
+Looking for object:Register
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register.DoClick([])
+###Register.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoClick([])
+###Login.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoSetText(["AgosVenezia4"])
+###Login.DoSetText(["AgosVenezia4"]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoClick([])
+###First_Name.DoClick([]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoSetText(["Agostina"])
+###First_Name.DoSetText(["Agostina"]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoClick([])
+###Last_Name.DoClick([]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoSetText(["Venezia Napolillo"])
+###Last_Name.DoSetText(["Venezia Napolillo"]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText(["Probando4."])
+###Password.DoSetText(["Probando4."]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoClick([])
+###Confirm_Password.DoClick([]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoSetText(["Probando4."])
+###Confirm_Password.DoSetText(["Probando4."]) (1)
+Action result:true
+Looking for object:Register1
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register1.DoClick([])
+###Register1.DoClick([]) (1)
+Action result:true
+Looking for object:Navigator
+Using library defined WebAppProfile
+Attach result: Rapise WebSpy code embedded into Selenium
+Looking for object:MY-APP
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:MY-APP(HTMLObject)[-1]
+MY-APP.DoClick([])
+###MY-APP.DoClick([]) (1)
+Action result:true
+Looking for object:Register
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register.DoClick([])
+###Register.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoClick([])
+###Login.DoClick([]) (1)
+Action result:true
+Looking for object:Login
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Login(HTMLObject)[-1]
+Login.DoSetText(["AgosVenezia5"])
+###Login.DoSetText(["AgosVenezia5"]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoClick([])
+###First_Name.DoClick([]) (1)
+Action result:true
+Looking for object:First_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:First Name(HTMLObject)[-1]
+First_Name.DoSetText(["Aguito"])
+###First_Name.DoSetText(["Aguito"]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoClick([])
+###Last_Name.DoClick([]) (1)
+Action result:true
+Looking for object:Last_Name
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Last Name(HTMLObject)[-1]
+Last_Name.DoSetText(["Napolillo"])
+###Last_Name.DoSetText(["Napolillo"]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoClick([])
+###Password.DoClick([]) (1)
+Action result:true
+Looking for object:Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Password(HTMLObject)[-1]
+Password.DoSetText(["Probando5."])
+###Password.DoSetText(["Probando5."]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoClick([])
+###Confirm_Password.DoClick([]) (1)
+Action result:true
+Looking for object:Confirm_Password
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Confirm Password(HTMLObject)[-1]
+Confirm_Password.DoSetText(["Probando5."])
+###Confirm_Password.DoSetText(["Probando5."]) (1)
+Action result:true
+Looking for object:Register1
+************!!!!!!!!!!!!!!!!!!**************
+MatchedObject:Register(HTMLObject)[-1]
+Register1.DoClick([])
+###Register1.DoClick([]) (1)
+Action result:true
+Execution is over, bailing out.
+###AgosVenezia2 (1)
+Test execution done
+##############################################################
+Test Pass: AgosVenezia2,  (Passed:40 Failed:0 Time:71.417s)
+Test Session Status: Pass Time: 75.243s
+##############################################################

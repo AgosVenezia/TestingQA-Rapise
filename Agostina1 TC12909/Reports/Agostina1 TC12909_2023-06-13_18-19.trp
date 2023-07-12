@@ -1,0 +1,34 @@
+<log type="Session" name="DESKTOP-VTHC0JK:AGOSTINA" at="2023-06-13 18:18:20.014"/>
+<log type="Test" name="Agostina1 TC12909" status="Info"  at="2023-06-13 18:18:23.996"><data type="text">Test Started: F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\Agostina1 TC12909\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-06-13 18:18:24.009"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2023-06-13 18:18:24.012"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Google_Chrome:_1_ventana_en_ejec.DoClick([])" status="Pass"  at="2023-06-13 18:18:31.597" comment="Returned Value: true" />
+<log type="Assert" name="Register.DoClick([])" status="Pass"  at="2023-06-13 18:18:33.369" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoClick([])" status="Pass"  at="2023-06-13 18:18:34.879" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoSetText([&quot;agostinita&quot;])" status="Pass"  at="2023-06-13 18:18:36.460" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoClick([])" status="Pass"  at="2023-06-13 18:18:38.176" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoSetText([&quot;Agostina&quot;])" status="Pass"  at="2023-06-13 18:18:39.717" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoClick([])" status="Pass"  at="2023-06-13 18:18:41.232" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoSetText([&quot;Venezia&quot;])" status="Pass"  at="2023-06-13 18:18:42.744" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-06-13 18:18:44.199" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;quete001*&quot;])" status="Pass"  at="2023-06-13 18:18:45.727" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoClick([])" status="Pass"  at="2023-06-13 18:18:47.301" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoSetText([&quot;quete001*&quot;])" status="Pass"  at="2023-06-13 18:18:48.835" comment="Returned Value: true" />
+<log type="Assert" name="Register1.DoClick([])" status="Pass"  at="2023-06-13 18:18:50.292" comment="Returned Value: true" />
+<log type="Assert" name="Google_Chrome:_1_ventana_en_ejec1.DoClick([])" status="Pass"  at="2023-06-13 18:18:51.423" comment="Returned Value: true" />
+<log type="Assert" name="Google_Chrome:_1_ventana_en_ejec1.DoClick([])" status="Pass"  at="2023-06-13 18:18:52.547" comment="Returned Value: true" />
+<log type="Assert" name="Google_Chrome:_1_ventana_en_ejec1.DoClick([])" status="Pass"  at="2023-06-13 18:18:53.670" comment="Returned Value: true" />
+<log type="Assert" name="MY-REGISTER.DoClick([])" status="Pass"  at="2023-06-13 18:18:55.135" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;quete1.&quot;])" status="Pass"  at="2023-06-13 18:18:56.841" comment="Returned Value: true" />
+<log type="Assert" name="MY-REGISTER.DoClick([])" status="Pass"  at="2023-06-13 18:18:58.443" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoSetText([&quot;quete1.&quot;])" status="Pass"  at="2023-06-13 18:19:00.357" comment="Returned Value: true" />
+<log type="Assert" name="Register1.DoClick([])" status="Pass"  at="2023-06-13 18:19:01.797" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoClick([])" status="Pass"  at="2023-06-13 18:19:03.310" comment="Returned Value: true" />
+<log type="Assert" name="Password.DoSetText([&quot;quete1.1234&quot;])" status="Pass"  at="2023-06-13 18:19:04.889" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoClick([])" status="Pass"  at="2023-06-13 18:19:06.310" comment="Returned Value: true" />
+<log type="Assert" name="Confirm_Password.DoSetText([&quot;quete1.1234&quot;])" status="Pass"  at="2023-06-13 18:19:12.866" comment="Returned Value: true" />
+<log type="Assert" name="Register1.DoClick([])" status="Pass"  at="2023-06-13 18:19:18.067" comment="Returned Value: true" />
+<log type="Test" name="Agostina1 TC12909" status="Pass" closed="Agostina1 TC12909" _guid="undefined"  at="2023-06-13 18:19:18.071" comment="Passed:27 Failed:0 Time:54.316s" />

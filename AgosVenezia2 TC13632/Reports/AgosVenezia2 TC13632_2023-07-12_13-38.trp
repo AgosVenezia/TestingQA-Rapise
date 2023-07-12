@@ -1,0 +1,17 @@
+<log type="Session" name="DESKTOP-VTHC0JK:AGOSTINA" at="2023-07-12 13:38:02.663"/>
+<log type="Test" name="AgosVenezia2" status="Info"  at="2023-07-12 13:38:04.847"><data type="text">Test Started: F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.js</data>
+</log>
+<log type="Message" name="Starting scenario: Test" status="Info"  at="2023-07-12 13:38:04.854"/>
+<log type="Assert" name="Play RVL@Main.rvl.xlsx" status="Pass" comment=""  at="2023-07-12 13:38:04.870"><data type="text">RVL</data>
+<data type="text">Main.rvl.xlsx</data>
+</log>
+<log type="Assert" name="Global.DoKillByPid: 11140" status="Info" realStatus="Pass"  at="2023-07-12 13:38:05.826"/>
+<log type="Assert" name="MY-APP.DoClick([])" status="Pass"  at="2023-07-12 13:38:14.176" comment="Returned Value: true" />
+<log type="Assert" name="Register.DoClick([])" status="Pass"  at="2023-07-12 13:38:15.681" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoClick([])" status="Pass"  at="2023-07-12 13:38:17.140" comment="Returned Value: true" />
+<log type="Assert" name="Login.DoSetText([&quot;AgosVenezia3&quot;])" status="Pass"  at="2023-07-12 13:38:18.764" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoClick([])" status="Pass"  at="2023-07-12 13:38:20.225" comment="Returned Value: true" />
+<log type="Assert" name="First_Name.DoSetText([&quot;Agos&quot;])" status="Pass"  at="2023-07-12 13:38:21.819" comment="Returned Value: true" />
+<log type="Assert" name="Last_Name.DoClick([])" status="Pass"  at="2023-07-12 13:38:28.265" comment="Returned Value: true" />
+<log type="Assert" name="Execution terminated by user" status="Fail"  at="2023-07-12 13:38:34.967"><data type="link" url="F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.rvl.xlsx(RVL,21,1)" text="F:\Descargas\Cursos\VSC_PROYECTOS\Rapise\AgosVenezia2\Main.rvl.xlsx(RVL,21,1)"/>
+</log>
